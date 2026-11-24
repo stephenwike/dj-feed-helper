@@ -13,7 +13,7 @@ You don't need to start here: in DJ Feed, open your event's controller and click
 - **It never controls your decks.** DJ Feed Helper never starts, stops or pauses VirtualDJ. It only adds songs to VirtualDJ's sidelist or Automix list, and reads what's playing, through VirtualDJ's own Network Control extension.
 - **It only runs while you use DJ Feed.** It has no window and doesn't start with Windows. DJ Feed starts it, and it stops by itself a few minutes after you close DJ Feed.
 - **It stays on your computer.** It talks only to VirtualDJ on this computer and to DJ Feed.
-- **To remove it**, delete the file.
+- **It installs itself** for your Windows account (no administrator rights), and **you remove it like any app**: Settings → Apps → Installed apps → DJ Feed Helper → Uninstall.
 
 ## "Windows protected your PC"
 
